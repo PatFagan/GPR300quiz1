@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-quiz1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Repos\gpr300quiz1\GPR300quiz1\quiz1\Intermediate\Build\Win64\quiz1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Repos\gpr300quiz1\GPR300quiz1\quiz1\Intermediate\Build\Win64\UE4Editor\Development\quiz1\quiz1.cpp.obj"
+"C:\Repos\gpr300quiz1\GPR300quiz1\quiz1\Intermediate\Build\Win64\UE4Editor\Development\quiz1\quiz1GameModeBase.cpp.obj"
+"C:\Repos\gpr300quiz1\GPR300quiz1\quiz1\Intermediate\Build\Win64\UE4Editor\Development\quiz1\quiz1.init.gen.cpp.obj"
+"C:\Repos\gpr300quiz1\GPR300quiz1\quiz1\Intermediate\Build\Win64\UE4Editor\Development\quiz1\quiz1GameModeBase.gen.cpp.obj"
+"C:\Repos\gpr300quiz1\GPR300quiz1\quiz1\Intermediate\Build\Win64\UE4Editor\Development\quiz1\Default.rc2.res"
+/OUT:"C:\Repos\gpr300quiz1\GPR300quiz1\quiz1\Intermediate\Build\Win64\UE4Editor\Development\quiz1\UE4Editor-quiz1.lib"

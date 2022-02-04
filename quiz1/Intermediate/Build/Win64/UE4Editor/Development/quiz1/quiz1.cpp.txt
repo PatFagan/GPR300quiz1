@@ -1,0 +1,2 @@
+C:\Repos\gpr300quiz1\GPR300quiz1\quiz1\Intermediate\Build\Win64\UE4Editor\Development\quiz1\Definitions.quiz1.h
+C:\Repos\gpr300quiz1\GPR300quiz1\quiz1\Source\quiz1\quiz1.h

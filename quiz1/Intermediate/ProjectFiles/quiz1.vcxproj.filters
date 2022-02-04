@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\quiz1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0E361C70-5059-4BE4-9662-956E80E5F63B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\quiz1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\quiz1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{EFA87E94-40FB-4A10-BDF0-D1E4ABCE7CF4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\quiz1">
+      <UniqueIdentifier>{E70789F0-078E-4438-BED7-A8279F6FFB24}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\quiz1\quiz1.Build.cs">
+      <Filter>Source\quiz1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\quiz1\quiz1.cpp">
+      <Filter>Source\quiz1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\quiz1\quiz1.h">
+      <Filter>Source\quiz1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\quiz1\quiz1GameModeBase.cpp">
+      <Filter>Source\quiz1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\quiz1\quiz1GameModeBase.h">
+      <Filter>Source\quiz1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
